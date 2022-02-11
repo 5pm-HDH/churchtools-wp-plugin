@@ -9,6 +9,8 @@ Wenn du Interesse hast, bei der Umsetzung des Plugins mitzuhelfen melde dich ger
   * CT-Forum: https://forum.church.tools/user/dumbergerl
   * GitHub: https://github.com/DumbergerL
 
+Das Projekt mit aktuellem Stand der Entwicklung findest du hier: https://github.com/5pm-HDH/wp-plugin-churchtools-anmeldungen
+
 Beiträge aus dem ChurchTools-Forum
 * [Wordpress Formular mit CT verbinden?](https://forum.church.tools/topic/8130/wordpress-formular-mit-ct-verbinden/4)
 * [Wordpress Plugin zur direkten Integration von Gruppenhomepages](https://forum.church.tools/topic/7528/wordpress-plugin-zur-direkten-integration-von-gruppenhomepages?_=1643706999789)
